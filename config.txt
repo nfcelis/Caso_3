@@ -1,0 +1,6 @@
+numClientes=5
+numMensajes=10
+numFiltros=2
+numServidores=2
+capacidadEntrada=3
+capacidadEntrega=5
